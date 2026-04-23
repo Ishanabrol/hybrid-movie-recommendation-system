@@ -1,0 +1,5 @@
+model,precision@10,recall@10,ndcg@10,k,n_users_evaluated
+SVD,0.0837,0.0167,0.0747,10,98
+NCF,0.098,0.0208,0.097,10,98
+Content Based,0.0153,0.0032,0.0186,10,98
+Hybrid,0.098,0.0256,0.1014,10,98

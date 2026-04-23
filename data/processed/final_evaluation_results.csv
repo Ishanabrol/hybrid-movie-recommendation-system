@@ -1,0 +1,5 @@
+model,rmse,mae,precision@10,recall@10,ndcg@10
+SVD,0.9372,0.744,0.0837,0.0167,0.0747
+Neural CF,0.9587,0.7598,0.098,0.0208,0.097
+Content Based,,,0.0153,0.0032,0.0186
+Hybrid (Tuned),,,0.1041,0.0277,0.1018
